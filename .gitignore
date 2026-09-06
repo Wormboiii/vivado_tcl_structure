@@ -1,0 +1,8 @@
+build/
+sim/
+.Xil/
+lib/**/gen/
+
+*.code-workspace
+
+
