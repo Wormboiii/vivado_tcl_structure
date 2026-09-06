@@ -1,6 +1,6 @@
 # Vivado TCL build structure
 
-## 1. Why did you chose TCL over GUI?
+## 1. Why do you choose TCL over GUI?
 
 Vivado GUI-based Project Mode is convenient for initial setup and development.  
 However, as a project grows and more developers begin collaborating, source files, generated files, and project-specific settings can become increasingly difficult to manage and maintain under version control.  
