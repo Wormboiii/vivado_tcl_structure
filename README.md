@@ -21,4 +21,4 @@ In short, the goal is to **manage the source files and build flow rather than th
 ---
 
 ## 2. File Hierarchy
-<img width="591" height="682" alt="Image" src="https://github.com/user-attachments/assets/fbc49aa4-7638-48af-8243-606a540d78e2" />
+<img width="591" height="682" alt="Image" src="https://github.com/user-attachments/assets/fe8ee9ac-65b9-4a6f-9809-8e171d086787" />
