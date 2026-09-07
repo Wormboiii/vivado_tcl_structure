@@ -32,7 +32,7 @@ generate_target simulation $IPS
 set IP_SIM_FILES [get_files \
     -compile_order sources \
     -used_in simulation \
-    -of_objects $IPS]
+]
 
 
 
